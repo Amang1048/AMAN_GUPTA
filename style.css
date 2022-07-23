@@ -28,7 +28,7 @@ font-family: 'Sora', sans-serif;
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: #FFCB74;
   }
 
   *{
@@ -71,8 +71,13 @@ font-family: 'Sora', sans-serif;
 .soft-head{
     color: #33231c;
 }
+.design-head{
+    font-family: 'Hahmlet', serif;
+}
+hr{
+    color: #000000;
 
-
+}
 footer {
     background: #000000;
     color: rgb(255, 255, 255);
