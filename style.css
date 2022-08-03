@@ -40,6 +40,9 @@ font-family: 'Sora', sans-serif;
     padding: 0;
     background-color: white;
   }
+  #intro{
+    color: #FFCB74;
+  }
 
   .image{
     width: 40px;
@@ -73,6 +76,7 @@ font-family: 'Sora', sans-serif;
 }
 .design-head{
     font-family: 'Hahmlet', serif;
+    color: #FFCB74;
 }
 hr{
     color: #000000;
@@ -98,4 +102,11 @@ display: none;
  th td{
   width: 75px;
   height: 75px;
+ }
+ /* .hello{
+  width: 500px;
+  height: 500px;
+ } */
+ .card{
+  background-color: #FFCB74;
  }
