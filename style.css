@@ -55,6 +55,10 @@ font-family: 'Sora', sans-serif;
   .head1{
     font-weight: 600;
   }
+  .home-head a{
+    color: #FFCB74;
+    text-decoration: none;
+  }
   .nav-link{
     font-family: 'Roboto Slab', serif;
     color: #FFCB74;
@@ -67,6 +71,7 @@ font-family: 'Sora', sans-serif;
     width: 350px;
     margin-top: 15px;
     padding-top: 10px;
+    opacity: 0.8;
   }
   .container{
     color: #33231c;
@@ -109,4 +114,10 @@ display: none;
  } */
  .card{
   background-color: #FFCB74;
+ }
+ .about{
+  color: #FFCB74;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
  }
